@@ -38,3 +38,5 @@ To change your working directory to the shared folder containing our data:<br />
 ```
 
 After the drive is mounted and you have updated your working directory, you can access all of the data in Google Colab.
+
+Go and have a look at the 'Setup-and-EDA.ipynb' file!
