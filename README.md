@@ -6,7 +6,6 @@ Welcome to our Visagio repository for the RSNA-MICCAI Brain Tumor Radiogenomic C
 * Web browser
 * Github account
 * Visagio Google account for accessing Google Drive and Colab
-* No installations required!
 
 ***Before getting started with anything and making any changes, please create your own branch of this repo in Github***.
 
@@ -19,7 +18,7 @@ Welcome to our Visagio repository for the RSNA-MICCAI Brain Tumor Radiogenomic C
 When you want to commit and push your changes to your branch: <br />
 *File > Save a copy in GitHub*. 
 
-From here, you can use GitHub to create a pull request to the main branch.
+If you would like to create pull requests or merge changes from the main branch into your own branch, it may be necessary to install Git on your computer.
 
 ## Google Drive access in Colab:
 
