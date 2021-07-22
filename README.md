@@ -18,7 +18,7 @@ Welcome to our Visagio repository for the RSNA-MICCAI Brain Tumor Radiogenomic C
 When you want to commit and push your changes to your branch: <br />
 *File > Save a copy in GitHub*
 
-If you would like to create pull requests or merge changes from the main branch into your own branch, it may be necessary to install Git on your computer.
+If you would like to create pull requests or merge commits from the main branch into your own branch, it may be necessary to install Git on your computer.
 
 ## Google Drive access in Colab:
 
