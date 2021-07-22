@@ -26,7 +26,11 @@ All data files can be found in the following Google Drive: <br />
 ***Update for shared drive once it has been fully populated with files*** <br />
 https://drive.google.com/drive/folders/1aMKv-GfepkHkpRnZRnxxMJhGezVGClnV?usp=sharing
 
-Opening a file from GitHub in Google Colab should always be done using the following link: <br /> 
+Opening a file from GitHub in Google Colab should be done by clicking on the button at the top of each .ipynb file <br />
+<a href="https://colab.research.google.com/github/justin-bardwell/Kaggle-RSNA-MICCAI/blob/testing/Setup_and_EDA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> <br /> 
+or by using the following link and choosing the file you would like to open <br /> 
 http://colab.research.google.com/github
 
 To mount your Google Drive to Colab in order to access the data: <br />
@@ -35,7 +39,7 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 ```
 
-To change your working directory to the shared folder containing our data:<br />
+To change your working directory to the shared folder containing our data: <br />
 ```
 %cd /content/gdrive/Shareddrives/Kaggle
 ```
