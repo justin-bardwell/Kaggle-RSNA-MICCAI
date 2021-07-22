@@ -27,7 +27,7 @@ All data files can be found in the following Google Drive: <br />
 https://drive.google.com/drive/folders/1aMKv-GfepkHkpRnZRnxxMJhGezVGClnV?usp=sharing
 
 Opening a file from GitHub in Google Colab should be done by clicking on the button at the top of each .ipynb file <br />
-<a href="https://colab.research.google.com/github/justin-bardwell/Kaggle-RSNA-MICCAI/blob/testing/Setup_and_EDA.ipynb">
+<a href="https://colab.research.google.com/github/justin-bardwell/Kaggle-RSNA-MICCAI/blob/main/Setup_and_EDA.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> <br /> 
 or by using the following link and choosing the file you would like to open <br /> 
@@ -66,6 +66,11 @@ In Kaggle, we are provided with data which includes four types of whole brain MR
 The image data in Kaggle has been provided in a common medical imaging format, *DICOM*. The shared Google Drive contains images that have been converted to PNG files in order to save space. This data was taken from Kaggle user Jonathan Besomi's contribution (https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/253000). By using this data, we significantly reduce computational intensivity and storage requirements while only sacrificing minimal amounts of information from our data. The PNG dataset will allow us to train complex deep learning models using the GPUs available on Colab without too many issues. These trained models can then be implemented in Kaggle when required - we just need to slightly alter the way the data is read in to our model to account for the difference in format.
 
 **If you would like to look further in to the data and how we use Google Colab, please have a look at the 'Setup-and-EDA.ipynb' file!**
+
+<br />
+<a href="https://colab.research.google.com/github/justin-bardwell/Kaggle-RSNA-MICCAI/blob/main/Setup_and_EDA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> <br /> 
 
 ![image](https://user-images.githubusercontent.com/80082879/126605042-e771a6c2-65ca-420c-b0bb-6a05b14a8a2b.png)
 
