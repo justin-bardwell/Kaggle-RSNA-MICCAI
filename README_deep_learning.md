@@ -33,3 +33,9 @@ https://arxiv.org/pdf/2103.05940.pdf
 DeiT: Data-efficient Image Transformers <br />
 https://github.com/facebookresearch/deit <br />
 This is Facebook's public repository for the DeiT and CaiT models. Here you can find pre-trained transformers that can be implemented for image classification purposes. 
+
+### Papers with code
+
+https://paperswithcode.com/
+
+Papers with code is a website which allows you to search for published research papers that have allowed public access to the code used in their paper. This can be a very useful tool to get ideas and examples of how things work.
