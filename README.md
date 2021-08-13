@@ -47,7 +47,7 @@ You will then need to authorise access to your Google Drive.
 And then go to the link provided in the output of the above code block and copy the authorisation code.
 ![image](https://user-images.githubusercontent.com/80082879/129331692-1372fec3-1b2b-4932-8af4-9b646320f556.png)
 
-You should now be able to see the files in the shared drive in the Files sidebar.
+You should now be able to see the files in the shared drive in the Files sidebar. <br />
 ![image](https://user-images.githubusercontent.com/80082879/129332029-f913e66a-a6b9-4643-83e5-4c09c3e59d48.png)
 
 
