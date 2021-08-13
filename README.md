@@ -2,7 +2,7 @@
 
 Welcome to our repository for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Kaggle competition! The purpose of this competition is to provide techniques to detect the presence of a specific genetic sequence in brain tumours which has been shown to be a favourable prognostic factor and a strong predictor of responsiveness to chemotherapy. Currently, the genetic analysis of cancer requires surgery to extract a tissue sample. 
 
-### Based on our first meeting, we will likely be using Kaggle initially and then moving to an external cloud provider for this. Due to this, we probably won't need to use this system of GitHub and Colab. We figured it would be worth sharing anyway so people can have a look at some of the data and play around with it in Python if they wish.
+## Based on our first meeting, we will likely be using Kaggle initially and then moving to an external cloud provider for this. Due to this, we probably won't need to use this system of GitHub and Colab. We figured it would be worth sharing anyway so people can have a look at some of the data and play around with it in Python if they wish.
 
 ## Requirements:
 * Web browser
