@@ -41,6 +41,16 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 ```
 
+You will then need to authorise access to your Google Drive.
+![image](https://user-images.githubusercontent.com/80082879/129331539-d32b108c-0bf0-4afc-b34c-6cfec01101c1.png)
+
+And then go to the link provided in the output of the above code block and copy the authorisation code.
+![image](https://user-images.githubusercontent.com/80082879/129331692-1372fec3-1b2b-4932-8af4-9b646320f556.png)
+
+You should now be able to see the files in the shared drive in the Files sidebar.
+![image](https://user-images.githubusercontent.com/80082879/129332029-f913e66a-a6b9-4643-83e5-4c09c3e59d48.png)
+
+
 To change your working directory to the shared folder containing our data: <br />
 ```
 %cd /content/gdrive/Shareddrives/Kaggle
