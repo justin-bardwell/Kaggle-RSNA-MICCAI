@@ -1,6 +1,8 @@
 # RSNA-MICCAI Brain Tumor Radiogenomic Classification
 
-Welcome to our Visagio repository for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Kaggle competition! The purpose of this competition is to provide techniques to detect the presence of a specific genetic sequence in brain tumours which has been shown to be a favourable prognostic factor and a strong predictor of responsiveness to chemotherapy. Currently, the genetic analysis of cancer requires surgery to extract a tissue sample. 
+Welcome to our repository for the RSNA-MICCAI Brain Tumor Radiogenomic Classification Kaggle competition! The purpose of this competition is to provide techniques to detect the presence of a specific genetic sequence in brain tumours which has been shown to be a favourable prognostic factor and a strong predictor of responsiveness to chemotherapy. Currently, the genetic analysis of cancer requires surgery to extract a tissue sample. 
+
+### Based on our first meeting, we will likely be using Kaggle initially and then moving to an external cloud provider for this. Due to this, we probably won't need to use this system of GitHub and Colab. We figured it would be worth sharing anyway so people can have a look at some of the data and play around with it in Python if they wish.
 
 ## Requirements:
 * Web browser
@@ -54,9 +56,7 @@ Google Colab provides free access to GPUs which are necessary to perform deep le
 To access a GPU runtime in Google Colab:<br />
 *Runtime > Change runtime type > Hardware accelerator: GPU*
 
-Keep in mind that this uses Google's resources that are freely available to anyone using Colab. Please only use a hardware accelerator if you are running a deep learning model. If you are using a GPU runtime when it is not necessary, you will likely be removed from your current session and your runtime will be restarted with no hardware accelerator. If this happens multiple times, it is possible that your rights to use a GPU for free are revoked by Google.
-
-If you do not need to do anything computationally intensive or have your own powerful computer, feel free to use your own development environment to access the notebook files. To access the data using your own IDE, you will need to download the dataset to your own storage.<br />
+Keep in mind that this uses Google's resources that are freely available to anyone using Colab. Please only use a hardware accelerator if you are running a deep learning model. If you are using a GPU runtime when it is not necessary, you will likely be removed from your current session and your runtime will be restarted with no hardware accelerator.
 
 
 ## Overview of data
