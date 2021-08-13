@@ -49,7 +49,7 @@ After the drive is mounted and you have updated your working directory, you can 
 
 ## Benefits of using Google Colab
 
-Google Colab provides free access to very powerful GPUs which are necessary to perform deep learning on image datasets. It also provides extremely fast access to our data stored in Google Drive. The GPUs available in Colab often include Nvidia K80s, T4s, P4s and P100s.
+Google Colab provides free access to GPUs which are necessary to perform deep learning on image datasets. It also provides extremely fast access to our data stored in Google Drive. The GPUs available in Colab often include Nvidia K80s, T4s, P4s and P100s.
 
 To access a GPU runtime in Google Colab:<br />
 *Runtime > Change runtime type > Hardware accelerator: GPU*
