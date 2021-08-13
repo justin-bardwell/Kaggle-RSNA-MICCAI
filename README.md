@@ -9,9 +9,7 @@ Welcome to our repository for the RSNA-MICCAI Brain Tumor Radiogenomic Classific
 * Github account (you might be able to skip this step now that we've made the repository public)
 * Visagio Google account for accessing Google Drive and Colab
 
-***Before getting started with anything and making any changes, please create your own branch of this repo in Github***.
-
-## Setup Github access through Google Colab
+## Setup Github access through Google Colab (can also probably skip this now that the repo is public)
 1. Navigate to http://colab.research.google.com/github.
 2. Click the "Include Private Repos" checkbox.
 3. In the popup window, sign-in to your GitHub account and authorize Colab to read the private files.
