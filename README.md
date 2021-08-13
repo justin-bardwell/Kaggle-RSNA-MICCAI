@@ -6,7 +6,7 @@ Welcome to our repository for the RSNA-MICCAI Brain Tumor Radiogenomic Classific
 
 ## Requirements:
 * Web browser
-* Github account
+* Github account (you might be able to skip this step now that we've made the repository public)
 * Visagio Google account for accessing Google Drive and Colab
 
 ***Before getting started with anything and making any changes, please create your own branch of this repo in Github***.
